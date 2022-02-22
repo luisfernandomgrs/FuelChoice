@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fuel Choice</string>
+    <string name="app_title">Escolha do Combustível</string>
+    <string name="portugueseText1">Saiba a melhor opção de abastecimento do seu carro!</string>
+    <string name="portugueseText2">Preço álcool, ex: 1.90</string>
+    <string name="portugueseText3">Preço gasolina, ex: 2.60</string>
+    <string name="portugueseText4">Calcular</string>
+    <string name="portugueseText5">Melhor usar Gasolina</string>
+    <string name="portugueseText6">Melhor usar Álcool</string>
+</resources>
